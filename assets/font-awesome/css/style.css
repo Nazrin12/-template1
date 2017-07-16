@@ -1,0 +1,49 @@
+#mainDiv,#welcome,#resource,#best,#quality,#images,#check,#contact,#footer{
+	width: 100%;
+}
+
+#mainDiv #header #menu{
+	
+	height: 50px;
+	background: red;
+}
+#mainDiv #header #welcome{
+	
+	height: 610px;
+	background: blue;
+}
+#mainDiv #content #resource{
+	
+	height: 315px;
+	background: lightgreen;
+}
+#mainDiv #content #best{
+	
+	height: 570px;
+	background: white;
+}
+#mainDiv #content #quality{
+	
+	height: 570px;
+	background: gray;
+}
+#mainDiv #content #images{
+	
+	height: 200px;
+	background: brown;
+}
+#mainDiv #content #check{
+	
+	height: 300px;
+	background: white;
+}
+#mainDiv #content #contact{
+	
+	height: 420px;
+	background: green;
+}
+#mainDiv #footer{
+	
+	height: 125px;
+	background: white;
+}
